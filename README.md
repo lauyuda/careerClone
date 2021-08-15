@@ -1,3 +1,6 @@
+# How it looks like
+<img src="https://github.com/lauyuda/careerClone/blob/main/screenshot/careerfeatures.jpeg">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
